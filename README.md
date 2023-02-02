@@ -1,2 +1,4 @@
 # go-ap-mongo
 A MongoDB storage container for go-ap
+
+## THIS IS AN EXPERIMENTAL PROOF OF CONCEPT.  DO NOT USE THIS CODE UNTIL IT ACTUALLY WORKS
